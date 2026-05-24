@@ -10,16 +10,16 @@ public class Exercicio06 {
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Type your id number: ");
-        int id = sc.nextInt();
+        int employeeId = sc.nextInt();
         System.out.print("How many hours do you work? ");
-        int hour = sc.nextInt();
-        System.out.print("How much do you receive per hour? ");
-        double amount = sc.nextDouble();
+        int hoursWorked = sc.nextInt();
+        System.out.print("How much do you earn per hour? ");
+        double amountEarned = sc.nextDouble();
 
-        double s = amount * hour;
+        double sum = amountEarned * hoursWorked;
 
-        System.out.println("NUMBER = " +id);
-        System.out.printf("SALARY = U$ %.2f", s);
+        System.out.println("NUMBER = " + employeeId);
+        System.out.printf("SALARY = U$ %.2f", sum);
 
 
         sc.close();

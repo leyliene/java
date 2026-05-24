@@ -15,7 +15,7 @@ import java.util.Scanner;
  *  <p>qnt2 = sc..;</p>
  *  <p>preco2 = sc..;</p>
  *  <p>total = preco1 * qnt1 + preco2 * qnt1;</p>
- *  <p>COLOCAR NOMES MAIS IDENTIFICÁVEIS NAS VARIÁVEIS</p>
+ *  <p>USE VARIÁVEIS MAIS DESCRITIVAS</p>
  */
 
 public class Exercicio07 {
