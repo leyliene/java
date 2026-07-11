@@ -1,8 +1,8 @@
-package nelioalves.java.exercicios;
+package nelioalves.java.exercicios.ifelse;
 
 import java.util.Scanner;
 
-public class Exercicio10 {
+public class Exercicio09 {
     static void main() {
         Scanner sc = new Scanner(System.in);
 
@@ -11,11 +11,11 @@ public class Exercicio10 {
         System.out.println("Digite um número: ");
         numero = sc.nextInt();
 
-        if (numero % 2 == 0) {
-            System.out.println("PAR");
+        if (numero >= 0) {
+            System.out.println("NAO NEGATIVO");
         }
         else {
-            System.out.println("IMPAR");
+            System.out.println("NEGATIVO");
         }
 
         sc.close();

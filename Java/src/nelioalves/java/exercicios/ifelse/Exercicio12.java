@@ -1,4 +1,4 @@
-package nelioalves.java.exercicios;
+package nelioalves.java.exercicios.ifelse;
 
 import java.util.Scanner;
 
