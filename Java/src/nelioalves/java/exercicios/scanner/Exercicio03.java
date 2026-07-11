@@ -1,4 +1,4 @@
-package nelioalves.maratonajava.exercicios;
+package nelioalves.java.exercicios.scanner;
 
 import java.util.Scanner;
 

@@ -1,6 +1,4 @@
-package nelioalves.maratonajava.exercicios;
-
-import jdk.swing.interop.SwingInterOpUtils;
+package nelioalves.java.exercicios.scanner;
 
 public class Exercicio01 {
     static void main() {
